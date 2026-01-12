@@ -1,0 +1,5 @@
+P=float(input("enter the principle: "))
+N=float(input("enter the interest: "))
+R=float(input("enter the rate of interest: "))
+I=float(P*R*N/100)
+print("Simplle Interest: ",I )
